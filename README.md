@@ -8,6 +8,8 @@ As well as reimplementation of the following algorithms:	As well as reimplementa
 - Robust Iterative Nonparametric (RIN) proposed in Yin, F., Fritsche, C., Gustafsson, F., & Zoubir, A. M. (2013). TOA-based robust wireless geolocation and cramar-rao lower bound analysis in harsh LOS/NLOS environments. IEEE Transactions on Signal Processing, 61(9), 2243–2255. 
 - Squared Range Least Squares (SRLS) proposed in Beck, A., Stoica, P., & Li, J. (2008). Exact and Approximate Solutions of Source Localization Problems. Signal Processing, IEEE Transactions On, 56(5), 1770–1778.
 
+Tested on MATLAB R2017b
+
 ## Citing this work
 Please use the following BibTeX entry.
 ```@inproceedings{Zaeemzadeh2017,
